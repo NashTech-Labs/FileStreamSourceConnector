@@ -1,0 +1,4 @@
+Hello everyone
+today our topic is kafka connector
+idk why this is not working
+
